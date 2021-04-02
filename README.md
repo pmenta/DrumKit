@@ -13,7 +13,7 @@ O DrumKit RJ é um kit de baterias que você consegue tocar clicando nos botões
 -   Manipulação da DOM
 
 
-## [](https://raw.githubusercontent.com/pmenta/To-do-List/master/final/desktop-behavior.gif?token=ARBFXB5PRYFKQS4FQUZJ2BTAM27LE)Desktop Behavior
+## [](https://raw.githubusercontent.com/pmenta/DrumKit/master/final/desktop-behavior.png)Desktop Behavior
 
-![enter image description here](https://raw.githubusercontent.com/pmenta/To-do-List/master/final/desktop-behavior.gif?token=ARBFXB5TDGC56SNATZZRNGDAM3AMQ)
+![enter image description here](https://raw.githubusercontent.com/pmenta/DrumKit/master/final/desktop-behavior.png)
 
